@@ -1,11 +1,39 @@
 [
   {
+    "name": "Code Optimizer",
+    "desc": "Code Optimization tool to optimize any given code as input with code motion, strength reduction, dead code elimination,etc.",
+    "image": "optimizer",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/rohanajayramani/Parsify-Compiler/tree/main/Code%20Optimiser",
+      "rep" : "https://drive.google.com/drive/folders/1IOiDS8iPwk72c5Yd7rnApjybduDMxs3q?usp=sharing"
+      
+    }
+  },
+  {
+    "name": "Sentimental Analysis",
+    "desc": "Sentimental Analysis Project for recording the sentiments of employees working in a company. Made using Python, HTML, CSS and JavaScript",
+    "image": "sent",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/kanav2503/Sentimental-Analysis"
+    }
+  },
+  {
+    "name": "Disease-Prediction",
+    "desc": "Machine Learning based model to predict the disease a person might have by giving the input of some symptoms.",
+    "image": "dis",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/kanav2503/Disease-Prediction"
+    }
+  },
+  {
     "name": "Hospital Management System",
     "desc": "Hospital Management System using Python, it is a small yet helpful system to manage and delete records for a hospital.",
     "image": "man",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/kanav2503/Hospital-Management-System"
     }
   },
@@ -15,7 +43,6 @@
     "image": "yt",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/kanav2503/Youtube-Video-Downloader"
     }
   },
@@ -25,7 +52,6 @@
     "image": "pac",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/kanav2503/PACMAN-with-Python"
     }
   }

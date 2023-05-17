@@ -56,6 +56,7 @@ function showProjects(projects) {
           <p>${project.desc}</p>
           <div class="btns">
             <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+            <a href="${project.links.rep}" class="btn" target="_blank">Reports <i class="fas fa-code"></i></a>
           </div>
         </div>
       </div>
